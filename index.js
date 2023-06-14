@@ -1,6 +1,6 @@
 function warnTheSheep(queue) {
     // your code here
-    
+    console.log({ queue })
 }
 
 

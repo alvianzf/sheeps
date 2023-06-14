@@ -1,6 +1,7 @@
 function warnTheSheep(queue) {
     // your code here
-    console.log({ queue })
+    console.log({ queue, queue: JSON.stringify(queue)  });
+
 }
 
 
